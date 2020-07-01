@@ -36,7 +36,10 @@
 
 ## RUN
 1  SemEval-2010 Task 8 Dataset 上官方测试：
-
+    
+    下载模型：https://pan.baidu.com/s/1TqnlXjN3n1cJweiv6OvjBQ  密码: aqu5
+    将模型放到 ECbert_Semeval2010Task8/model 文件夹中
+    
     cd ECbert_Semeval2010Task8/
     python ECbert_Test_Large.py
  
@@ -50,6 +53,9 @@
 
 
 2   在KBP37数据集上测试:
+     
+     下载模型：https://pan.baidu.com/s/1RSjnQ5Lh4Gnpg_s1Ci-L1A  密码: 0t94
+     放到 ECbert_KBP37/model 文件夹中
      
      cd ECbert_KBP37/
      python ECbert_KBP37_Test.py 
