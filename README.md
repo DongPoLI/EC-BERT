@@ -3,10 +3,10 @@ Relation Classificaton based on information enhanced BERT
 
 
 ## Model Architecture
-![结构图](images/ECBERT.png)
+<img src="images/ECBERT.png" width="600" align="center" />
 
-设置大小
-<img src="images/ECBERT.png" width="500" />
+
+
 
 
 
