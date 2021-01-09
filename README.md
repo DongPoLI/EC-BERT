@@ -67,6 +67,7 @@
 [KBP37 Dataset](https://github.com/zhangdongxu/kbp37)    
 [Huggingface Transformers](https://github.com/huggingface/transformers)  
 [R-BERT](https://github.com/monologg/R-BERT)
+[Mul-BERT](https://github.com/DongPoLI/Mul-BERT)
 
 
   
