@@ -1,5 +1,5 @@
 # EC-BERT
-论文： **Relation Classificaton based on information enhanced BERT**
+论文： **[Relation Classificaton based on information enhanced BERT](http://jcip.cipsc.org.cn/CN/Y2021/V35/I3/69)**
 
     EC-BERT 使用 bert-large-uncased   
     在 SemEval-2010 Task 8 Dataset 官方测试 macro-averaged F1 = 89.69%   
